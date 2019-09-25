@@ -1,0 +1,690 @@
+# Ecological Foodways
+
+For assistance with bookdown: https://bookdown.org/home/about/
+
+
+* http://bartonseaver.com/education
+* https://www.kickstarter.com/projects/375052454/the-food-voice-we-write-and-talk-about-food
+* https://www.foodvoice.org/food-news-and-innovation
+* http://www.perennialsolutions.org/perennial-plant-databases-organic-agriculture-gardens-permaculture-hardy-hybrids-varieties-information.html
+* https://github.com/consbio/seedsource
+* https://www.cell.com/iscience/fulltext/S2589-0042(19)30293-7?utm_campaign=STMJ_97655_SC&utm_medium=email&utm_dgroup=97655_MAIN_AB11-TCWB_SGL_ALL&utm_acid=245978702&SIS_ID=-1&dgcid=STMJ_97655_SC&CMX_ID=&utm_in=DM566305&utm_source=AC_7
+![](000-EFw_course.Rmd/ecology-food-culture.png)
+## Day 1: Overview and How to Taste
+
+### Overview
+	* Food is the most important topic concerning humans
+		* Food is essential to health
+			- Food born illnesses, malnutrition, obesity, diabetes all impact society as a whole
+		* Food production has large environmental impacts
+			- Food production contributes to soil loss, water depletion, overfishing, forest loss, grassland loss and climate change
+			- Food has a landscape context (e.g., cattle production consumes 41% or two fifths of US lands)
+		- 	Humans have become more distant from the origins of their food
+	- *Ecological Foodways*:  aspects of food that connect people to nature. 
+		- Ecology comes from the Greek word *oikos* meaning home
+		- The study of foodways is the documentation of the cultural dimensions of food and eating 
+	- The Primary basis for the course is *The Third Plate* by Dan Barber
+			- Dan Barber
+				- Head Chef, Blue Hill at Stone Barns
+				- Blue Hill Farm family farm in MA
+				- Stone Barns Education Center (Rockefeller)
+			- Synthesizes the multidimensional aspects of food issues
+			- Focuses on the importance of flavor
+		
+*I am reminded that truly flavorful food involves a recipe more complex than anything I can conceive in the kitchen. A bowl of polenta that warms your senses and lingers in your memory becomes as straightforward as a mound of corn and as complex as the system that makes it run. It speaks to something beyond the crop, the cook, or the farmer — to the entirety of the landscape, and how it fits together. It can best be expressed in places where good farming and delicious food are inseparable.* **Dan Barber**
+
+![](000-EFw_course.Rmd/FullSizeRender.jpg)
+**Figure 1** *Time* magazine article featuring Dan Barber’s “Third Plate”.
+
+### Exploring Flavor
+	- Although flavor is important, it’s study has been overlooked
+	- Recently, the field of neurogastronomy, which uses neurology to study the experience flavor, has opened the way to explaining many aspects of food and eating
+	- We will use two primary sources to understand key concepts from neurogastronomy to better understand flavor and how we can use it to explore our world
+		- *Neurogastronomy* by Gordon Shepherd (Columbia University)
+		- *Taste What You’re Missing* by Barb Stuckey (Mattson Foods)
+	- 	I strongly recommend using journalling as a tool for documenting and honing your explorations
+		- See the *Journaling Basics* handout for more details
+
+### Structure of the Class
+	- The class will be a combination of:
+		- Short lectures examining different aspects of ecological foodways
+		- Longer labs that are aimed at exploring flavor and different culinary topics and developing tasting skills
+		- Readings conducted outside of class about 1 hour depending on how fast folks read
+	- See the syllabus for more details
+
+### Lab 1: Exploring with Taste
+	- What is flavor?
+		- Multiple sensory inputs
+			- Hearing (e.g. food freshness, hot vs cold coffee)
+			- Sight (e.g. white vs red wine)
+			- Smell > 1,000,000,000,000 odors
+				- Smell, rather than taste, is the dominant sense in flavor
+			- Touch (e.g. carbonation, tongue sensations)
+			- Taste is sweet, sour, salty, bitter, savory
+			- Smell (again) because we smell both exterior aromas (ortho-nasal) and aromas that pass from into our nasal cavity via our throats (retro-nasal)
+		- Flavor is the *synthesis* of all of these sensory inputs **and** our past experiences
+		
+![](000-EFw_course.Rmd/FullSizeRender.jpg)
+**Figure 2** Diagram of the synthetic, multi-sensory experience of flavor, including the neurological pathways that are involved (Source: *Neurogastronomy* Gordon Shepherd). 
+
+- *Tasting Basics* handout
+- Break!
+- Hands-on Activities
+	-  **Activity 1: The 5 Tastes**	
+		- *Purpose:* Get to know the basic tastes in isolation 
+			- 5 liquids (salt, sugar, gentian, glutamic acid, ascorbic acid)
+			- Taste in order making sure to swish and cover your tongue 
+			- Determine what the taste is and write it down
+	- **Activity 2: Jelly Bean Quiz Time** 
+		- *Purpose:* separate taste from smell and observe ortho- vs retro-nasal olfaction
+			- Hold your nose (either with your fingers or muscularly), the point is to not breath out while you’re doing the next step
+			- Take one half of a jelly bean in your mouth and chew
+			- Still not breathing out, try to determine what flavor it is
+			- Write down your decision
+			- Now, breath out, paying attention to the smell you get
+			- Try to figure out what flavor it is
+			- Write down your decision
+			- Repeat with the remaining jelly beans
+
+### Readings for next week
+	- Barber 1-22
+	- Shepherd 11-32 and 109-127
+	- Kurlansky 80-84
+	
+### Weekly Forage: Sassafras (*Sassafras albidium*)
+	- Shrub to tree with broad leaves that have four hand-like leaf shapes (with a thumb on the left, the right, both sides and no thumbs) with no teeth on the edges, with a citrus-y, rootbeer-y smell
+	- Deciduous, bears leaves from spring to fall, brilliantly colored in the fall
+	- Tends to occur at the margins of forests, look for it along trails
+	- Leaves can be used as a seasoning (filé), roots can be used for flavoring beverages (sarsaparilla and root beer), and bark twigs can be used for syrup
+	- See also:
+		- [VIDEO: Sassafras — Eat The Weeds by Green Deene](https://www.youtube.com/watch?v=aN9dE3n36t0)
+		- [Sassafras: Root Beer Rat Killer — Eat The Weeds by Green Deene](http://www.eattheweeds.com/sassafras-root-beer-rat-killer/)
+		- [VIDEO: Foraging for Wild Sassafras with Russ Cohen](https://www.youtube.com/watch?v=bxKvGnIyZLg)
+
+# Ecological Foodways
+## Day 2: Food in Your Head and Intro to Tasting Wine
+![](000-EFw_course.Rmd/ecology-food-culture.png)
+
+### Last Week, Today
+	- Recap: discussed our motivation and ability to observe the world through food and flavor, examined the components of flavor and investigated the basic tastes and the difference between taste, smell and ortho- vs. retro- nasal olfaction. 
+	- Readings: Barber, Shepherd, Davis (in Kurlansky).
+	
+### Talk: Food in Your Head
+![](000-EFw_course.Rmd/brain_on_food.png)
+- Flavor is a synthesis of sensory input and past experience.
+	- Sensory Organs and Senses
+		- Ears = Sound
+		- Eyes = Sight
+		- Tongue (skin in general) = Touch
+		- Nose = Smell (ortho- and retro-olfaction)
+		- Tongue (possibly gastrointestinal) = Taste
+	- Neural Pathways and Brain Regions
+		- *Sound, sight, touch and taste* are routed through the ~thalamus~, which coordinates their inputs, and then passed to the ~neocortex~, the center of consciousness.
+		- *Smell* is not routed through the neocortex but is instead interacts directly with the ~prefrontal cortex~, ~amygdala~ and ~hippocampus~, which control decisions, memory and emotions.
+	- Smell is Unique: what does that mean?
+		- Decisions, emotions and memories from smell (and potentially flavor) are created prior to conscious experience and awareness. 
+		- Evolutionary Perspective
+			- Smell is a basal sense that developed before the development of the conscious centers of the brain.
+			- Advantageous to override the conscious centers of the brain: e.g., disgust associated with bad experiences.
+			- Spatial recall important for locating and detecting food.
+	- Flavor impacts behavior *and visa-versa*
+![](000-EFw_course.Rmd/flavor_value_system.png)
+		- Food decisions and behaviors can become reinforced via flavor-value-action systems comprised of:
+			- Saliency: the desirability of something (i.e. food).
+			- Drive: the desire to obtain something (i.e. eat).
+			- Control: ability to choose not to act on desires. 
+			- Memory: in this context, what was the reward in the past.
+		- Perception and thoughts (smells bad or good) impact flavor.
+		- Because of smell’s unconscious impact, this is a critical point influencing decisions and values without our knowing it.
+		- Smell is highly plastic, and changing perception of aromas can alter sensory cells and neurons, altering their physical sensation.
+	- *What does this mean for ecosystems when the deliciousness in out heads is the arbiter of their physical reality?*
+	- Readings: Barber pg. 78-99, Shepherd pg. 155-162, 165-173, 192-199, 210-211, and Davis (in Kurlansky) pg. 103-106. 
+	
+![](000-EFw_course.Rmd/vigilance-vineyard-postlet.jpg)
+
+### Lab: Intro to Tasting Wine
+- Wine tasting developed from a need to assess the value of wine.
+- Wine tasting is now often conducted purely for sensory experiences.
+- It is perhaps the most refined mode of identifying flavors, esp. aromas.
+- **Process**: 
+	- 	*Tilting* the glass can help in examining the color and clarity.
+	- *Swirling* both helps to assess viscosity and aerosolizes aromas.
+	- *Sniffing* with short and long inhalations with your nose in the glass maximizes the amount of aromas that pass through the nose.
+	- *Sipping* a ~sufficient~ quantity of both wine permits the movement of the wine over the tongue and space for *air* inside the mouth.
+	- *Swishing*  facilitates the movement of wine in the mouth and the  aerosolization of aromas for exhalation out through the nose.
+	- *Spitting* permits successive tastes with minimal palette fatigue.
+-  **Mechanics**
+	- Tilting and Swirling
+		- This is assuming the wine glass is in the right-hand.
+		- Hold the wine glass with your index and middle fingers on the opposite side of the stem from your thumb and ring fingers about half to two thirds up the stem.
+		- *Tilt the glass to about a 75 degree angle away from you.*
+		- Visually assess the wine and then bring the glass back to vertical.
+		- *Swirl by keeping the glass vertical and moving your hand in a small circular motion (counter-clockwise).*
+		- 	Stop swirling, *breath out* before putting your nose in the glass. 
+	- Sniffing
+		- *Sniff by taking a full inhalation and pay attention to aromas.*
+		- *Swirl again, and take several shorter inhalations.* 
+		- *Sip by bringin the glass to your mouth and take in enough to cover your tongue and fill your mouth without puffing out your cheeks.* 
+	- Swishing
+		- *Swish by moving your tongue up and down in your mouth.*
+		- *Draw in air over the wine by pursing your lips, dropping your jaw and carefully inhaling.*
+	- Spitting
+		- Spitting is a common and accepted practice in wine tasting. Just try to your best to be unobtrusive. 		
+		- Slowly set down the wine glass and bring the spittoon to you.
+		- *Spit by pursing your lips then opening your lips and gently forcing the wine out into the bucket.*
+		- Feel free to use a napkin to help with drips.
+- **Activity 1: Wine Tasting Practice**
+	1.  Take a wine glass 10-20% full of water. 
+	2. *see, swirl, sniff, sip, swish, spit* 
+	3.  REPEAT until you feel comfortable with the whole process.
+	4. Now try it with some wine.
+	- *Things to Think and Talk About*
+		- What is the color and clarity of the wine?
+		- What is the viscosity of the wine?
+		- What aromas are detectable in the glass?
+		- How does the wine taste, smell and feel in the mouth?
+		- How does the wine taste and smell after leaving the mouth?
+		- **NOTE:** do your best to reserve your thoughts and expressions to yourself and wait until others have tasted. 
+- **Activity 2: Wine Standards** 
+	- *Purpose:* learn how to use wine standards to improve your palette.
+		- From neurogastronomic research, we know that the physical and neurology attributes of flavor limits how we can communicate and perceive flavor. 
+		- Everyone experiences flavor uniquely, but concepts of aromas and flavors can be established through shared experience. 
+		- We can to taste and name the same things to establish “flavor standards”. 
+		- *The Wine Wheel* developed originally by Ann Noble (~UC Davis~)
+			- 	Useful to guide from general to more specific aroma concepts.
+				- ![](000-EFw_course.Rmd/image.png)
+				https://winefolly.com/review/identifying-flavors-in-wine/
+			- *Primary*: originate from characteristics of the grapes.
+			- *Secondary:* arise through the fermentation process.
+			- *Tertiary:* develop in the aging process. 
+			- *Fault:* indicate (~not always~) production or storage mistakes.
+		- *Aroma standards* can be created by taking aromatic materials and combining them with a neutral wine. 
+	- **Using the Aroma Standards**
+		1. Pick up one of the standards. 
+		2. Holding the lid* on with your other hand, swirl the standard.
+		3. Remove the lid and sniff, * ~don’t taste~ *.
+		4. Make a note of what you think the aroma is.
+		5. Repeat two more times, use the wine wheel as a reference.
+		6. Repeat with another standard.
+			* *Keeping lids on keeps aroma concentrations high in the glass and keeps them away from your nose.
+	- **NOTE:** if you can’t identify the aroma, don’t worry. Make sure you are your nose is working properly, but palette development takes time and attention. Remember, you can develop your palette any time you have something around to smell.
+- **Activity 3: Chardonnay, oaked and un-oaked** 
+	- The majority of wine we drink is made from one species: *Vitis vinifera*.
+	- Chardonnay is a wine varietal originating in Burgundy, France. 
+	- Has few unique varietal characteristics, and strongly reflects the how and where it is grown.
+	- Typically, chardonnay based wines produced with minimal or no use of oak typically have flavor and aromatic components that are characterized as fresh and clean: such as, *apple, pear, citrus, herb, stone or mineral.* 
+	- However, chardonnays made using oak, primarily through aging in oak barrels, often aromas and flavors that are “richer”: such as, *butter, vanilla, pineapple, toast or caramel.*
+	- **Blind Tasting**
+		- *Purpose:* using flavor standards to detect the characteristic effects of aging in oak.
+		- There are two wines, one aged in oak and another in stainless steel.
+			1. Taste the first wine and make tasting notes.
+			2. Taste the second wine and make tasting notes. 
+			3. Refer to the aroma standards and wine wheel as needed, and remember to take a break and cleanse your palette.
+		- *Which wine do you think was “oaked”?* 
+
+### The Weekly Forage
+- Saskatoon (*Amelanchier* spp.)
+	- Cree: *misaskatowami*
+	- *Identification*: usually shrub-like. Leaves are similar to rose leaves in shape and size. Leaves are oval with teeth on the edges and fine hairs on the underside. Berries have a “crown”, like a blueberry, and range in color from red to purple. 
+	- *Time*: also known as juneberry and shadbush, because it flowers in early spring. Fruit is usually ripe in late spring to early summer, June-July. 
+	- *Environment:* occurs along streams and rivers naturally, but is a common landscaping plant. 
+	- *Method*: berries can be used like any other berry. Similar in texture to blueberries. Has a slight almond flavor. Like other members of the rose family (e.g., almonds, apples, plums) parts of the plant contain small to large quantities of cyanide producing compounds. Only eat the berries once they are ripe. 
+	- More info: http://www.eattheweeds.com/matricaria-matricarioides-for-your-tea-salad-2/
+- Restaurant: The Loyal Nine (Cambridge, MA). Focused on New England regional cuisine reviving historic recipes. Try the lobster with hickory sauce if it’s on the menu when you go!
+
+# EFw Day 3 
+## Day 3: Food on Your Land
+![](000-EFw_course.Rmd/ecology-food-culture.png)
+![](000-EFw_course.Rmd/brain_on_food.png)
+
+### Talk: Flavor and Ecosystems
+![](000-EFw_course.Rmd/vigilance-vineyard-postlet.jpg)
+	* Food is a nexus off many systems
+		* What is a system?
+			* 	Systems are sets of interconnected things whose relationships have a function.
+			* Society is a system of people connected by relationships.
+			* A forest is a system of organisms transferring nutrients.
+			* The brain is a system of neurons connected by synapses.
+	* Why systems surprise us? 
+![](000-EFw_course.Rmd/meadows_farm.jpg)
+		* Adapted from “Thinking in Systems” by Donella Meadows
+				1. Everything we think we know is a model. 
+				2. We’ve made some very good models of reality.
+				3. However, models are always incomplete.
+			- Humans tend to represent the world as linear, but systems behave “non-linearly” (i.e. disproportionate responses).
+			- System behavior is often highly complex from indirect effects.
+			- Alligators, frogs and snakes
+				- Managers of the Okefenokee Swamp wanted to increase populations of of frogs in the swamp. Alligators are predators of frogs, and intuition might suggest that decreasing alligators would lead to more frogs. 
+				- However, alligators also prey on snakes, which are much more impactful predators of frogs than alligators.
+				- So, actually the management decision is counterintuitive.
+		* What are food systems?
+			* Ecosystems = Water, Energy, Resources, Organisms
+			* Human = Economic, Social, Information, Cultural
+			* Consider a Farm:
+				* Crops rely on nutrients supplied by its roots and soil microorganisms.
+				* Humans harvest crops using equipment created by manufacturing systems.
+				* Products are shipped via shipping supply chains.
+				* Foods are sold via social interactions and prepared using human information systems. 
+	- Feedbacks from flavor to landscapes
+		- Places we don’t eat are not experienced and valued the same way
+			* Consider the Carrot (from “The Third Plate” by Dan Barber)
+				* Compare the sugar content of two carrots: one organic and one from Stone Barns.
+				* The Stone Barns carrot had extremely high levels of sugar and incredible flavor.
+				* The organic carrot had absolutely no sugar and no flavor.
+				* Barber goes on to discuss how animals, including humans, compensate for lack of nutrients (indicated by flavor) by increasing consumption. 
+
+*A nutritionist would say, ‘No, a carrot is a carrot is a carrot.’ A scientist would say, ‘No difference’ But taste the damn carrot.*
+
+![](000-EFw_course.Rmd/Carrot.png)
+
+			- Consider the Cow 
+![](000-EFw_course.Rmd/Screen%20Shot%202019-07-31%20at%205.29.32%20PM.png)
+		- From “How America Uses It’s Land by Dave Merrill and Lauren Leatherby)
+			- 41% of land in the US is devoted to raising cattle for beef.
+			- *How much of this is overconsumption driven by issues with flavor?*
+
+		- The Food Flavor Systems
+![](000-EFw_course.Rmd/Screen%20Shot%202019-07-31%20at%204.54.33%20PM.png)
+			- Flavor connects directly to emotion, memory and planning centers of the brain without direct connection to the conscious centers of the brain. 
+			- Without conscious observation of behavioral patterns, food decisions can be completely driven by flavor circuits.
+			- This supports hypotheses about issues with food overconsumption, such as obesity, and points to the need for considering flavor in discussions of food sustainability. 
+
+		* Living in Food Systems 
+			* Adapted from “Thinking in Systems” by Donella Meadows
+			1. Observe systems in time (i.e. behavior, not just structure)
+			2. Challenge your models by making predictions
+			3. Acknowledge the importance of things you can’t observe
+			4. Learn from the system (feedback to feedbacks)
+			5. Stay a humble 
+			6. Celebrate complexity
+			7. Expand horizons: time, thought and caring
+
+*If the biota, in the course of aeons, has built something we like but do not understand, then who but a food would discard seemingly useless parts? To keep every cog and wheel is the first precaution of intelligent tinkering.* 
+
+											— Aldo Leopold
+
+*How much of our landscape and ecosystems is dominated by consumption driven by issues of flavor impacting how we value food?*
+
+### Readings 
+	*  [Barber 234-250](https://ecofw.github.io/pdf/readings/Barber234-250.pdf) 
+	*  [Meadows 11-14](https://ecofw.github.io/pdf/readings/Meadows11-14.pdf) 
+	*  [Jacobson 20-28](https://ecofw.github.io/pdf/readings/Jacobson20-28.pdf) 
+
+### Lab: Terroir
+![](000-EFw_course.Rmd/Wine-Aroma-Flavor-Chart-Wheel.jpg)
+		* What is terroir? 
+			* A sense of place conveyed by a wine (or other food).
+			* Contributors to wine flavor:
+				* Genetics = species, varietal, clone
+				* Environment = Soil, viticulture, weather, climate, organisms
+				* Oenology = harvest, crush, filtering, fermenting, aging
+				* Presentation = narrative, labeling, service, food 
+		* **Activity: Tasting Terroir**
+			* *Purpose:* taste wines to explore the concept of terroir.
+			* ~Part 1: Sauvignon Blanc~
+				* Sauvignon Blanc is a variety of grape used to make many styles of white wine throughout the world with flavors driven by growing climate.
+				* Warmer regions can have strongly grassy or sweet tropical fruit aromas, such as papaya, with some citrus (e.g., grapefruit) and stone fruit (e.g. peaches) aromas.
+				* Cooler regions tend to produce wines that are dominated by herbal or “green” flavors, such as bell pepper, and floral aromas. 
+				* Three major regions known for the sauvignon blanc wines are Marlborough Valley (New Zealand), coastal California and Loire River (France).
+				* These locations produce wines from sauvignon blanc with distinct aromatic profiles:
+					* New Zealand: tends to be dominated by sweet tropical fruits. 
+					* California: historically “aggressively grassy”, now are often influenced by New Zealand with more tropical fruits; however, some, particularly those produced by Robert Mondavi vineyards, have strong melon aromas.
+					* France: tends to be cooler, and have higher acidity and “greener” aromas with “mineral” flavors (think of the smell of wet stone or salt, maybe the seashore).
+				* Taste each wine and make tasting notes.
+					* What are at least three aromas that you detect?
+				* **Which wine do you think is from where?**
+			* ~Part 2: Chardonnay~ 
+				* A variety of grape that is used to make many types of white wines. It is capable of growing in a wide range of conditions, and, because of this, its flavor often reflects the manner in which the wine was made. 
+				* Two distinct examples are chardonnays from California and Burgundy (France).
+					* *California*: typically fermented using techniques often applied to red wines and aged in oak, they tend to have aromas of vanilla, butter and tropical fruits and often feel more viscous (e.g., silky or oily). 
+					* *Burgundy*: some wine styles here are required by law to be fermented in stainless steel not oak without the additional fermentation methods as used in California, and because of this tend to have aromas of citrus and apple aromas and are typically more acidic and less viscous.
+				* We will taste three chardonnays, two from California and one from France (Burgundy). 
+				* Taste each wine and make tasting notes.
+					* What are at least three aromas that you detect?
+				* **Which wine do you think is from where?**
+
+## Wines
+### Sauvignon Blanc
+* Woodbridge 
+	* California
+	* Spice and herb flavors dominate this light-bodied, crisp and dry wine. White-pepper, fennel bulb and lemon flavors make an interesting mix and the mouthfeel is respectably tangy.
+	* 12%
+	* $8
+* Saget la Perriere
+	* France
+	* Light aromas of citrus peel, underripe mango and peach skin that show a bit more intensity on the medium-weight palate, where they marry with additional notes of banana and lemon curd.
+	* 12% 
+	* $13
+* Nobilo
+	* New Zealand
+	* A little shy at first, lime leaf, lemon and peach aromas creep their way out of the glass. The medium-bodied palate offers a slippery texture and a lemony finish.
+	* 12.5%
+	* $13
+	
+### Chardonnay 
+* Manciat-Poncet
+	* France (Burgundy)
+	* This wine offers spice and ripe apple and pear flavors. A tangy, almost peppery character suggests ginger as well as toastiness. The minerality is prominent. 
+	* 13%
+	* $17
+* Woodbridge
+	* California 
+	* Attractive layering of fruit, cream and hazelnut flavors on a nicely viscous texture makes this full-bodied wine something special.
+	* 13.5%
+	* $8
+* Kendall Jackson Vitners Reserve Chardonnay
+	* California 
+	* Beautifully integrated tropical flavors such as pineapple, mango and papaya, with citrus. Aromas of vanilla and honey. A hint of toasted oak and butter.
+	* 13.5%
+	* $13
+
+## Weekly Forage
+* Knotweed (*Fallopia japonica*)
+	* Identification: stems are hollow and dead stems are woody tending to persist and form thickets similar to bamboo. Young shoots are red eventually forming “jointed” stems with oval, toothless, hairless leaves. 
+	* Timing: Early spring.
+	* Environment: highly invasive, seems to grow almost anywhere! Often found along rivers in Boston from the original plantings by Frederick Law Olmsted. 
+	* Methods: The young shoots can be cooked in a manner similar to asparagus. Can be pickled but don’t over cook, as they can become mushy. The shoots have a sour flavor similar to rhubarb and can be used similarly in pies and other pastries. 
+	* **Note:** knotweed is high in oxalic acid, so avoid it if you are limiting your consumption of foods with oxalic acid, like rhubarb or spinach.
+* Local Winery: Turtle Creek in Concord, MA.
+
+#  EFw Day 4 What is cuisine?
+### Cuisine: The Short Short Version
+![](000-EFw_course.Rmd/image%202.png)
+
+	- Cuisine is the codification of food and foodways.
+	- Includes obtaining, preparing and consuming food.
+	- The origins of cuisine lie in the early use of fire by humans to cook food. 
+		- Many more foods could be accessed.
+		- Caloric intake increased and so did brain size and intelligence.
+		- Food could also be savored, as cooking enabled the synthesis of more aromatic compounds. 
+		- People gathered around the act of preparing and eating food and began accumulating and sharing information. 
+![](000-EFw_course.Rmd/image%203.png)
+
+	- Cuisine both enables and constrains the foods that we eat.
+		- Lobster, maligned by New Englanders well into the latter part of the 19th century, are now considered a delicacy.
+		- Insects are consumed in some cuisines and not by others, such as Europeans and their descendent cultures.
+	- Cuisine influences flavor, and ultimately the acceptance or rejection of foods, both through culinary information **and** through cultural context influencing perception and memories.
+		- Many Americans have a fondness for peanut butter in part because they ate PB & J sandwiches as children.
+![](000-EFw_course.Rmd/image%204.png)
+	- The Human “Niche” and Cusine
+		- Ecological term for the interactions that an organism has with its environment.
+		- In the context of food, in general, humans have focused their niche onto a very small number of organisms directly or indirectly impacting many other organisms.
+		- One strategy for mitigating ecological impacts is through diversification to decrease waste and increase food stability.
+			- For example, the focus of fisheries is on only a handful of species, such as salmon and cod.
+			- Many fish and other organisms are often caught and destroyed in the process of catching target species.
+			- Utilization of these other fish species requires fostering cuisine to integrate them into our foodways.
+
+## Weekly Forage
+![](000-EFw_course.Rmd/image.png)
+* Acorn (*Quercus* spp.)
+	* Acorns are the fruits of oaks which is a highly diverse group of plants. They are nuts with a very thin shell and a cap covering the end  that meets the stem. 
+	* They can be collected any time of year, but are best to collect in the fall for spring after the snow melts. 
+	* Oaks grow in many environments and are commonly planted. 
+	* All acorns are edible but they very in the amount of processing required. All oaks have some amount of phytochemicals that need to be removed, which can be done by soaking in water. 
+	* Acorns formed the base of Native American cuisine wherever oaks and people lived in the same place. However, much of that cuisine was lost during the genocide of native people in the Americas. 
+	* Here’s a great article on eating acorns by Hank Shaw of *Hunter Angler Gardener Cook*: https://honest-food.net/acorn-cake-and-acorns-around-the-world/
+	* Here’s a video with similar content by Arthur Haines: https://m.youtube.com/watch?v=QitkIGNwUgs
+* Hardwick Vineyard and Winery
+	* www.hardwickwinery.com
+	* Uses hybrids of native North American and European grape species. 
+
+### Lab: Constructing Flavor
+	- 	Flavor pairing is partly constrained culturally
+		- 	For example, North Americans usually consider chocolate a dessert flavor, while chocolate is a common ingredient in savory dishes in Central America.
+		- These aspects of flavor are highly variable and require understanding a persons cultural background and experiences.
+		- However, aspects of taste are more easily generalized, largely involving “balancing” tastes
+	- Balancing tastes
+		- Balancing tastes is combining ingredients that are dominated by different tastes in order to maximize the experience of a food.
+		- **Rule of Flavor Balance**: People are generally most interested and satiated when all tastes are experienced. 
+		- **Complementarity** of tastes usually occurs when combinations of foods leads to more tastes being experienced.
+		- Tastes affect each other when combined:
+			- Sweet lowers sour
+			- Salt lowers bitter
+			- Salt raises sweet
+			- Savory generally raises other tastes
+			- Bitter increases our desire for other flavors but increases satiety after other flavors. 
+		- Determining the desired proportions requires trial and error tasting.
+		- **Culinary Scaling** 
+			- Not all flavors need to be experienced simultaneously
+			- Flavor Experience: Bite < Dish < Meal < Diet
+			- Flavor can be varied across this scale
+			- E.g., classic French
+![](000-EFw_course.Rmd/image.png)
+**Babette’s Feast Menu**
+Famous food movie where a French refugee starts a new life in Denmark. 
+	* *Potage à la Tortue* (Turtle Soup) 
+		* Amontillado Sherry
+	* *Blinis Demidoff* (Caviar and Sour Cream on Buckwheat Pancakes)   
+		* Veuve Cliquot Champagne
+	* 	*Cailles en Sarcophage* (Truffled Quail and Foie Gras in Pastry) served with 
+		* Clos de Vougeot Pinot Noir
+	* 	Endive Salad
+	* 	*Savarin au Rhum avec des Figues et Fruit Glacée* (Rum Soaked Sponge Cake with Candied Fruit) 
+		* Champagne
+	* Cheeses and fruits 
+		* Sauternes
+		* Coffee with cognac
+- See handouts for more info on food pairing and flavor
+
+### Wines
+* Woodbridge Pinot Noir 
+	* California 
+	* Ripe fruit tones, bright acidity and lightly mouth-puckering tannins underpin red cherry, clove and blackberry flavors, while the texture is mouth-filling.
+	* 13%
+	* $8
+* Woodbridge Merlot
+	* California 
+	* This medium-bodied value-priced wine has relatively light herb and veggie accents as well as modest raspberry and plum flavors. 
+	* 13.5%
+	* $8
+* Woodbridge Cabernet Sauvignon 
+	* California 
+	* Straightforward black-cherry and black-olive flavors give this medium-bodied wine a solid footing, while a smooth, low-tannin texture makes it easy on the palate.
+	* 13.5%
+	* $8
+
+- **Activity**: Pairing Food/Wine You will have three wines, 4 cheeses and three chocolates
+	1. Taste each wine, focusing on the taste rather than the aroma
+	2. Taste each cheese and each chocolate
+	3. Cleanse your palate 
+	4. Taste each cheese with each wine, cleansing between combos
+	5. Make a note of the taste of each combination:
+		- Which combinations do you like?
+		- Which combinations don’t you like?
+		- Are the combinations you like occurring via complementarity?
+	6. Repeat with the chocolates
+- **Bonus:** try the cheeses with the chocolate and see if there are any combinations that you like!
+- In addition to taste and aroma compounds, some compounds in wine and chocolate can also impact flavor. Often tannins in wine can often combine with phytochemicals in chocolate to create unpleasantly astringent flavor, masking other aspects of flavor. 
+
+### Handout: Finding Fuller Flavor
+
+### Readings
+	- [ ] Meadows 165-185: suggestions on how to live in systems.
+	- [ ] Barber 428-447: a trip to Veta las Palmas (Spain) a whole-system fishery.
+	- [ ] Andoh 2-6: Washoku primer on how to construct a meal.
+	- [ ] Baudar 1-6: introduction to foraging for flavor in ecosystems. 
+
+# Day 5: The Future of Food
+## Eating Wild
+Humans have been collecting food from the wild since before recorded history (~200k years ago). It’s only in the relatively recent history (10-15k years ago) that agriculture was first practiced. Foraging (or other ways to gather wild food, such as hunting or fishing) is the most direct means to connect to nature through food. Today, we’ll do a bit of foraging outside then head inside to discuss ecological foodways, such as foraging, and the future of food. 
+
+### Foraging Basics
+	1. Know what you’re eating!
+		* *Never consume anything if you don’t know what it is* or if the specific tissue is edible. Species and individual tissues vary in terms of their edibility. For example, the fruit of saskatoon are edible but the leaves contain high levels of cyanogenic compounds.
+		* Take pics instead of collecting. This can help you identify and even determine where you found something. Focus on flowers, fruits, leaves and the habitat. 
+		* Get familiar new plants by collecting multiple times prior to using.
+	2. Consider the impacts of what you’re collecting.
+		* Prior to collecting, familiarize yourself with the legality and ethics of the location and organism. Focusing on public spaces and un-wanted species (e.g. invasives) is generally a good idea.
+	3. Make sure to collect safely.
+		- Avoid contaminated locations (e.g. roadside, golf-course, industry).
+		- Recent studys found comparably low/safe heavy metal levels in foraged foods in [Boston, MA](https://civileats.com/2015/11/11/is-urban-foraging-cities-safe-to-eat-boston) and [Berkeley, CA](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202450).
+		- Be careful of allergens that you know you’re sensitive to.
+		- Look out for harmful organisms, such as ticks and poison ivy.
+	4. Bring a few helpful tools: bags, basket/pack, knife, trowel/shovel, picker.
+	5. Consult with a local expert first!
+		- No one knows if something is edible until someone eats it.
+		- There is broad variation in some organisms over space and time. 
+		- Look for regional expertise relevant to your area:
+			- www.eattheweeds.com/foraging/foraging-instructors/
+			- www.foraging.com
+
+
+
+
+
+
+### Edible Shrubs and Trees at Lasell Village Pond 
+![](000-EFw_course.Rmd/IMG_1957.PNG)
+A quick map I made after a single visit to the pond behind Lasell Village. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Saskatoon or juneberry (*Amelanchier* spp.): edible berries early summer.  
+- http://www.eattheweeds.com/amelanchier-arborea-busting-out-all-over-2/
+					- ![](000-EFw_course.Rmd/IMG_1959.JPG)
+
+
+
+
+
+
+
+
+
+
+
+- Eastern Hemlock (*Tsuga canadensis*): edible young leaves, older leaves make a nice tisane.
+					- ![](000-EFw_course.Rmd/IMG_1964.JPG)
+
+
+
+
+
+
+
+
+
+- Eastern White Pine (*Pinus strobus*): many edible parts, including inner bark, pollen, young shoots and strobili. Also makes a nice tisane.
+					- ![](000-EFw_course.Rmd/IMG_1973.JPG)
+
+
+
+
+
+
+
+
+
+
+- Knotweed (*Fallopia japonica*): young shoots are edible early spring to fall.
+- http://www.eattheweeds.com/japanese-knotweed-dreadable-edible/
+					- ![](000-EFw_course.Rmd/IMG_1975.JPG)
+
+
+
+
+
+
+
+
+
+
+- Crab apple (*Malus sieversii* and *M. domesticus*): fruits are edible but highly variable. Can be great made into a sauce or roasted.
+- http://www.eattheweeds.com/apples-wild-crabapples/
+					- ![](000-EFw_course.Rmd/IMG_1963.JPG)
+
+
+
+
+
+
+
+
+
+- 	**Look out for Poison Ivy (*Rhus toxicodendron*)!!**
+- Has compound leaves arranged with usually three leaflets that have moderate to strong asymmetry. It produces white berries. All parts of the plant contain some amount of the skin irritating compound, urushiol. 
+					- ![](000-EFw_course.Rmd/IMG_1962.JPG)
+
+
+
+
+## Tisane: Hemlock and Pine
+The needles of Eastern Hemlock trees were a common drink consumed by loggers in New England. Loggers would carry a small kettle and cup that they would use to make a cup of “tea” when they were out cutting wood.
+
+## Discussion: Future of Food
+Foraging from uncultivated and wild landscapes is arguably the basis of foodways that are most strongly connected to nature. In the context of large-scale environmental change (e.g. climate, population growth, landuse, urbanization), what are the ecological foodways that will be challenged and what foodways can support the adaptation of the human niche in the future?
+
+## Readings 
+	* 	 [Sherman and Dooley 1-27](https://ecofw.github.io/pdf/readings/sherman_sioux_chef.pdf%20%E2%80%9Cdownload%E2%80%9D): indigenous chef collective.
+	* 	 [Humphreys 1-21](https://ecofw.github.io/pdf/readings/Humphreys1-21.pdf%20%E2%80%9Cdownload%E2%80%9D): apples and landscape memory.
+	* 	 [Shepherd 233-241](https://ecofw.github.io/pdf/readings/Shepherd233-241.pdf%20%E2%80%9Cdownload%E2%80%9D): flavor in human development and aging.
+	* 	 [Noonan 2017](https://ecofw.github.io/pdf/readings/NoonanSciAm2017.pdf%20%E2%80%9Cdownload%E2%80%9D): smell as an indicator of mental health in aging.
+
+## Weekly Forage
+*Two “farm-to-table” restaurants in Newton, MA.*
+- *Sycamore* sycamorenewton.com
+- *Farmstead Table* farmsteadtable.com  
+
+## References
+- <a href='Zachos1-14.pdf'>Zachos1-14.pdf</a>
+- Boston forage safety study: https://civileats.com/2015/11/11/is-urban-foraging-cities-safe-to-eat-boston
+- Berkeley forage safety study: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202450
+	- Both of these articles also found higher levels of micronutrients in foraged foods relative to commercial equivalents (e.g. crab apples versus conventional apples).
+
+## Day 6: Flavor and Memory
+## Weekly Forage
+![](000-EFw_course.Rmd/image.png)
+* Cornels or Corneilan Cherries (*Cornus mas*)
+	* Not a cherry, actually a dogwood from southern Europe, imported to US
+	* Planted extensively for its yellow spring flowers and foliage
+	* Shrub to small tree with oval, arc-veined leaves arranged oppositely
+	* Fruit ripe in late summer and is red, tart with a large pit (like an olive)
+	* Pick fruit when it’s already fallen or from the tree and ripen until dark red
+* The Trustees of Reservations 
+	* Supports preservation of historic lands and culture in New England
+	* Multiple farms and Community Supported Agriculture 
+	* http://www.thetrustees.org/places-to-visit/csa/
+
+## Flavor and Memory 	
+* We’ve covered how the neurology of flavor creates memories and emotion and influences values prior to conscious awareness
+* In particular, the flavor system in the brain appears to have evolved to facilitate the creation of memories associated with place and time
+* A particularly interesting phenomenon is the experience of Involuntary Autobiographical Memories (IAM), which are highly emotional memories that are experienced suddenly in response to a stimulus
+	* Marcel Proust’s Swann’s Way is an example of how flavor based IAM
+	* Flavor IAM are unique in that they are often more surprising and impactful because of the neurological connections of flavor
+
+### Using Flavor for Improving Memory
+- Research by Rachel Herz at Brown University supports the use of flavor and smell association to help recall.
+- Addressing olfactory and gustatory issues or other challenges to experiencing flavors can help with memory recall.
+- Relatedly, finding flavors that are connected to past experiences can also help to improve recall.
+- Shifting eating behavior, such as practicing mindful eating, can help to improve flavor experiences and connecting to memories.
+- It is essential to adjust flavors to adapt to changing olfactory and gustatory abilities, such as that experienced with human development and aging.
+- Loss of smell sensation can also be an early indicator of health disorders.
+
+## Activity: Flavor Memory Potluck
+**Everyone shares a food/flavor memory:** 
+		* What is the food or flavor?
+		* What time and place does it connect you to?
+		* What is the emotional content of the memory
+*Discussion*: how do food and flavor connect us to paste places and times?
+
+## References
+- Rachel Herz
+
+## Class Wrap-up
+* Value food and practice mindful eating when possible
+* Take care of your flavor system (nose, mouth and mind)
+* Continue exploring!
+* Further readings online http://ecologicalfoodways.org/readings.
